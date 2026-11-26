@@ -1,1 +1,0 @@
-Put model.pkl and scaler.pkl in this folder
